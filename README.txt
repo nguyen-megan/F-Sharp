@@ -1,5 +1,6 @@
 Solve the knapsack problem using dynamic programming
 Accepts an input file contains the set of value and weight of items, and a capacity for the knapsack
+Display the knapsack capacity, value generated, and the set of items (weight, value) in the solution 
 
 Instruction:
     1.call make to compile the program
