@@ -1,3 +1,6 @@
+Solve the knapsack problem using dynamic programming
+Accepts an input file contains the set of value and weight of items, and a capacity for the knapsack
+
 Instruction:
     1.call make to compile the program
     2.call ./hw5 file_name/path_name capacity to execute the program
